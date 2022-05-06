@@ -1,5 +1,7 @@
 # Houk - Roblox injector!
 
+This program was written by a ukrainian developer. It's currently war in Ukraine. Russia kills Ukrainian kids and women. Support Ukraine - https://savelife.in.ua/donate/
+
 # !NOTICE!
 Houk is not official released. It's still in beta version. If you find bug - write about it in issues.
 
