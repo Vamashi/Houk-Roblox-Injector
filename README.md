@@ -10,7 +10,7 @@ Houk can inject and execute scripts to roblox.
 Nope, it's not. All injectors flag as virus because it's editing roblox app.
 # Install
 1. Get the last houk version in releases
-2. Download Houk.exe
+2. Download Houk.exe (or Houk.rar if it's not .exe file)
 3. Open Houk.exe
 4. Wait...
 5. Now you have best no key injector!
