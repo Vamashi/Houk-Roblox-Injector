@@ -1,5 +1,7 @@
 # Houk - Roblox injector!
 
+# NOTICE: Join our discord for new updates - https://discord.gg/Bnx97N3BjF
+
 This program was written by a ukrainian developer. It's currently war in Ukraine. Russia kills Ukrainian kids and women. Support Ukraine - https://savelife.in.ua/donate/
 
 # !NOTICE!
